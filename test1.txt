@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is B43E-570F
+
+ Directory of E:\GitProgram
+
+05/24/2018  09:21 PM    <DIR>          .
+05/24/2018  09:21 PM    <DIR>          ..
+05/24/2018  09:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  257,826,107,392 bytes free
